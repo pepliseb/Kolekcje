@@ -11,5 +11,11 @@ public class Main4 {
         queue.add("Czesc");
         queue.add("AkademiaKodu");
 
+//        queue.remove();
+        System.out.println(queue.poll());
+        System.out.println(queue.poll());
+        System.out.println(queue.poll());
+
+
     }
 }
